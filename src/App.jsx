@@ -4,6 +4,8 @@ import Guitar from "./components/Guitar"
 import { db } from "./data/db";
 import { preview } from "vite";
 
+
+
 function App() {
 
   const [data, setData] = useState(db)
