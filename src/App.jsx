@@ -52,6 +52,7 @@ function App() {
                 guitar = { guitar }
                 setCart = { setCart }
                 addToCart = { addToCart }
+                
               />
             ))}
         </div>
